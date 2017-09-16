@@ -1,0 +1,9 @@
+body{text-indent: 50px;
+    background-color: lightskyblue}
+p{font-family: cursive; font-size: 14px}
+img{height: 250px;
+    width: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
