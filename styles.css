@@ -1,6 +1,10 @@
 body{text-indent: 50px;
     background-color: lightskyblue}
 p{font-family: cursive; font-size: 14px}
+main{margin-top:auto;
+margin-right:auto;
+margin-bottom:auto;
+margin-left:auto}
 img{height: 250px;
     width: 750px;
     display: block;
