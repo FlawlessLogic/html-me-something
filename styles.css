@@ -1,15 +1,19 @@
-header h1{text-align: center}
-nav{text-align: center;}
-body{text-indent: 50px;
-    background-color: lightskyblue;
-padding-right: 100px;
-padding-left: 100px;}
+header{background-color: burlywood;}
+header h1{text-align: center; }
+nav{text-align: center; }
+body{
+    text-indent: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px; 
+    padding-right: 100px;
+    padding-left: 100px;}
 p{font-family: cursive; font-size: 14px}
-main{margin-top:auto;
-margin-right:auto;
-margin-bottom:auto;
-margin-left:auto}
-img{height: 250px;
+main{background-color: lightseagreen;
+    margin-top:0px;
+    margin-right:auto;
+    margin-bottom:0px;
+    margin-left:auto}
+#principles{height: 250px;
     width: 750px;
     display: block;
     margin-left: auto;
@@ -17,3 +21,4 @@ img{height: 250px;
     }
 footer p{font-size: 10px;
 text-align: center}
+html{background-color: darkolivegreen;}
